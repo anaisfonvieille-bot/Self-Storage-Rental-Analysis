@@ -143,6 +143,11 @@ The notebook documents:
 ### 📊 Power BI Report
 
 The anonymised report presents the main operational and analytical indicators through a clear management dashboard.
+
+### 🎨 Canva Presentation
+
+The presentation explains the business problem, methodology, results, limitations and recommendations in a business-oriented format.
+
 ## 📁 Repository Structure
 
 ```text
@@ -159,10 +164,6 @@ Self-Storage-Rental-Analysis/
 └── images/
     └── dashboard_overview.png
 ```
-
-### 🎨 Canva Presentation
-
-The presentation explains the business problem, methodology, results, limitations and recommendations in a business-oriented format.
 
 ## 🔐 Confidentiality
 
