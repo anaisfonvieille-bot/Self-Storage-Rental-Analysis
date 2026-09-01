@@ -62,3 +62,25 @@ Consequently:
 - Observed relationships must not be interpreted as causality.
 - Predictive results are intended for prioritisation, not automatic decisions.
 - Occupancy, margin, net profitability and actual relocation delays were outside the available scope.
+## 🛠️ Technologies
+
+- **Python** — data preparation, quality controls and modelling
+- **Pandas / NumPy** — data manipulation
+- **Matplotlib / Seaborn** — exploratory visualisation
+- **Scikit-learn** — predictive modelling and evaluation
+- **Jupyter Notebook** — reproducible analytical workflow
+- **Power BI** — operational and management dashboard
+- **Canva** — business presentation and recommendations
+
+## 🔄 Methodology
+
+1. Consolidation of eight source files
+2. Structural and data-quality controls
+3. Treatment of duplicates, missing values, dates, amounts and percentages
+4. Exploratory analysis of contracts and cancellations
+5. Construction of prediction targets for departures at 4, 6 and 12 months
+6. Prevention of data leakage
+7. Comparison of logistic regression, decision tree and random forest models
+8. Evaluation using ROC-AUC, F1-score, precision, recall and confusion matrices
+9. Interpretation using permutation importance and observed subgroup rates
+10. Translation of results into practical business recommendations
