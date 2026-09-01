@@ -1,0 +1,28 @@
+# Données confidentielles
+*.csv
+*.xlsx
+*.xls
+
+# Fichiers Power BI originaux
+*.pbix
+
+# Dossiers de données et exports
+data/
+exports/
+raw_data/
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+
+# Environnements Python
+.venv/
+venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
