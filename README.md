@@ -16,3 +16,24 @@ The company had contract data distributed across several files, but no consolida
 The objective was to transform the available contract data into useful business insights, build a Power BI monitoring dashboard, and explore predictive models capable of identifying contracts with a higher risk of early termination or cancellation.
 
 > The models support prioritisation and decision-making. They do not replace human analysis.
+## 🎯 Business Problem
+
+The company wanted to:
+
+- Centralise and clean contract data from several sources.
+- Monitor activity through Power BI, which was not previously developed.
+- Identify the types of contracts most likely to end after 4, 6 or 12 months.
+- Analyse contractual profiles most associated with cancellations before the contract start date.
+- Prioritise commercial and retention actions.
+- Define which additional customer data should be collected in the future.
+
+## ✅ Project Objectives
+
+| Objective | Business value |
+|---|---|
+| Consolidate the available files | Create one reliable analytical dataset |
+| Improve data quality | Produce consistent and reusable indicators |
+| Build a Power BI dashboard | Make operational monitoring easier |
+| Predict early contract departures | Identify contracts requiring attention |
+| Analyse cancellations | Better understand recurring contractual profiles |
+| Recommend future data collection | Improve future analyses and predictive models |
