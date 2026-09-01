@@ -37,3 +37,28 @@ The company wanted to:
 | Predict early contract departures | Identify contracts requiring attention |
 | Analyse cancellations | Better understand recurring contractual profiles |
 | Recommend future data collection | Improve future analyses and predictive models |
+## 🗂️ Data Scope
+
+The analysis is based on anonymised contractual and operational data from four self-storage centres.
+
+The original data were supplied in eight files and consolidated into a single analytical dataset. Public deliverables exclude raw company data, employee names, real centre names and contract identifiers.
+
+### Available information
+
+- Contract status and dates
+- Storage characteristics
+- Payment mode and recurring period
+- Financial and tax-related contract fields
+- Discounts and contractual variables
+- Anonymised centre information
+
+### Current limitations
+
+The company does not yet collect enough customer-profile information. Variables such as age group, occupation, acquisition channel, storage motive, satisfaction, cancellation reason or departure reason were unavailable.
+
+Consequently:
+
+- The models rely mainly on contractual characteristics.
+- Observed relationships must not be interpreted as causality.
+- Predictive results are intended for prioritisation, not automatic decisions.
+- Occupancy, margin, net profitability and actual relocation delays were outside the available scope.
