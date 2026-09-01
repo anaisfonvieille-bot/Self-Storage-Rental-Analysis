@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Models-2E8B57)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Anonymized-0078D4)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📌 Project Overview
 
