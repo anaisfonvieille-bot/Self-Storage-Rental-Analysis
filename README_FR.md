@@ -170,13 +170,24 @@ Self-Storage-Rental-Analysis/
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
+│   ├── README.md
 │   └── self_storage_analysis.ipynb
 ├── powerbi/
-│   └── powerbi_dashboard_anonymized.pdf
-├── presentation/
-│   └── self_storage_analysis_report.pdf
-└── images/
-    └── dashboard_overview.png
+│   ├── README.md
+│   └── PowerBi_LocationBOX(version Anonyme).pdf
+└── presentation/
+    ├── README.md
+    ├── 01_contexte_et_donnees.pdf
+    ├── 02a_kpi_vue_globale.pdf
+    ├── 02b1_portefeuille_et_risques.pdf
+    ├── 02b2_politique_tarifaire.pdf
+    ├── 02c1_pilotage_et_box.pdf
+    ├── 02c2_synthese_chiffres_cles.pdf
+    ├── 03a_modeles_et_prediction_4_mois.pdf
+    ├── 03b_predictions_6_et_12_mois.pdf
+    ├── 03c_synthese_et_annulations.pdf
+    ├── 04_recommandations.pdf
+    └── 05_perspectives_et_conclusion.pdf
 ```
 
 ## 🔐 Confidentialité
