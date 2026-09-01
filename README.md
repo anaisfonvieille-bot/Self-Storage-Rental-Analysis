@@ -143,7 +143,6 @@ The notebook documents:
 ### 📊 Power BI Report
 
 The anonymised report presents the main operational and analytical indicators through a clear management dashboard.
-
 ## 📁 Repository Structure
 
 ```text
@@ -159,7 +158,35 @@ Self-Storage-Rental-Analysis/
 │   └── self_storage_analysis_report.pdf
 └── images/
     └── dashboard_overview.png
+```
 
 ### 🎨 Canva Presentation
 
 The presentation explains the business problem, methodology, results, limitations and recommendations in a business-oriented format.
+
+## 🔐 Confidentiality
+
+This repository is designed for portfolio publication.
+
+It does **not** include:
+
+- Raw CSV or Excel company data
+- Real centre names
+- Employee names
+- Contract identifiers
+- The original Power BI file
+- Confidential operational exports
+
+All published documents have been checked and anonymised before publication.
+
+## ⚠️ Responsible Use
+
+The predictive models identify statistical patterns in the available contract data. They must not be used to make fully automated commercial decisions.
+
+Predictions should always be reviewed by a human and combined with operational knowledge.
+
+## 👩‍💻 Author
+
+**Anaïs Fonvieille**
+
+Data analysis, dashboard design and predictive modelling project.
