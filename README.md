@@ -144,6 +144,22 @@ The notebook documents:
 
 The anonymised report presents the main operational and analytical indicators through a clear management dashboard.
 
+## 📁 Repository Structure
+
+```text
+Self-Storage-Rental-Analysis/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│   └── self_storage_analysis.ipynb
+├── powerbi/
+│   └── powerbi_dashboard_anonymized.pdf
+├── presentation/
+│   └── self_storage_analysis_report.pdf
+└── images/
+    └── dashboard_overview.png
+
 ### 🎨 Canva Presentation
 
 The presentation explains the business problem, methodology, results, limitations and recommendations in a business-oriented format.
