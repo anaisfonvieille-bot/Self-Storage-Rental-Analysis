@@ -116,3 +116,34 @@ The anonymised Power BI report provides a consolidated view of business activity
 - Filters supporting operational exploration
 
 The public repository contains only an anonymised PDF export. The original Power BI file and company data are not published.
+## 💡 Business Recommendations
+
+- Contact higher-risk contracts proactively.
+- Monitor short-duration and cancellation-prone contractual profiles.
+- Review the role and profitability of discounts.
+- Introduce alerts for contracts requiring commercial follow-up.
+- Retrain and monitor predictive models as new data become available.
+- Collect a small number of relevant customer variables through short dropdown lists.
+- Record cancellation and departure reasons consistently.
+- Keep human validation at the centre of every commercial decision.
+
+## 📚 Project Deliverables
+
+### 📓 Jupyter Notebook
+
+The notebook documents:
+
+- Data consolidation and cleaning
+- Data-quality controls
+- Exploratory analysis
+- Feature preparation
+- Predictive modelling
+- Model evaluation and interpretation
+
+### 📊 Power BI Report
+
+The anonymised report presents the main operational and analytical indicators through a clear management dashboard.
+
+### 🎨 Canva Presentation
+
+The presentation explains the business problem, methodology, results, limitations and recommendations in a business-oriented format.
