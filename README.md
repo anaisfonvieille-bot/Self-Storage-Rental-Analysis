@@ -84,3 +84,35 @@ Consequently:
 8. Evaluation using ROC-AUC, F1-score, precision, recall and confusion matrices
 9. Interpretation using permutation importance and observed subgroup rates
 10. Translation of results into practical business recommendations
+## 🤖 Predictive Analysis
+
+Two complementary predictive analyses were conducted.
+
+### Early contract departure
+
+The models estimate which contracts present characteristics associated with departure within:
+
+- 4 months
+- 6 months
+- 12 months
+
+Logistic regression, decision tree and random forest models were compared. Their performance was assessed using several complementary metrics rather than accuracy alone.
+
+### Cancellation before contract start
+
+A separate model analyses contractual profiles associated with cancellations before the planned start date.
+
+Its predictive performance is considered moderate. It should therefore be used as a prioritisation aid and not as an automated decision tool.
+
+## 📊 Power BI Dashboard
+
+The anonymised Power BI report provides a consolidated view of business activity, including:
+
+- Contract portfolio monitoring
+- Active-contract revenue indicators
+- Payment and cancellation monitoring
+- Contract duration and departure analysis
+- Comparisons between anonymised centres
+- Filters supporting operational exploration
+
+The public repository contains only an anonymised PDF export. The original Power BI file and company data are not published.
