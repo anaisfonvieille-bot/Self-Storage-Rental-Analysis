@@ -7,6 +7,8 @@
 ![Data](https://img.shields.io/badge/Data-Anonymized-0078D4)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+🌐 **Language:** English | [Français](README_FR.md)
+
 ## 📌 Project Overview
 
 This project was developed for a self-storage company operating four storage centres.
